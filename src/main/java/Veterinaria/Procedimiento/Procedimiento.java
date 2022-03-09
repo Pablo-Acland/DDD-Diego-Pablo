@@ -31,7 +31,7 @@ public class Procedimiento extends AggregateEvent<IdProcedimiento> {
     }
 
     public void generarDiagnostico(IdAnimal idAnimal, IdAtencion idAtencion, IdDiagnostico idDiagnostico, Descripcion accion){
-        
+
     }
 
     public void accion(){
