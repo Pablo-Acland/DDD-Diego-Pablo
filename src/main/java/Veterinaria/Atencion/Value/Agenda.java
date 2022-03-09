@@ -2,11 +2,13 @@ package Veterinaria.Atencion.Value;
 
 import co.com.sofka.domain.generic.ValueObject;
 
-import javax.xml.crypto.Data;
+import java.time.LocalDateTime;
 
-public class Agenda implements ValueObject <Data>{
+
+
+public class Agenda implements ValueObject <LocalDateTime>{
     @Override
-    public Data value() {
+    public LocalDateTime value() {
         return null;
     }
 }
