@@ -1,4 +1,8 @@
 package Veterinaria.VentaInsumos;
 
-public class ObjetosVarios {
+import Veterinaria.VentaInsumos.Value.IdObjetoVario;
+import co.com.sofka.domain.generic.Identity;
+
+public class ObjetosVarios extends Identity {
+
 }

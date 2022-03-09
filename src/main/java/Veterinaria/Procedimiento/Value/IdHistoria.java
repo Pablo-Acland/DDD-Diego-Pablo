@@ -1,4 +1,6 @@
 package Veterinaria.Procedimiento.Value;
 
-public class IdHistoria {
+import co.com.sofka.domain.generic.Identity;
+
+public class IdHistoria extends Identity {
 }

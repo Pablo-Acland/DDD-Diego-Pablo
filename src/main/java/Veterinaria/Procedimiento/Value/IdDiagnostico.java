@@ -1,4 +1,6 @@
 package Veterinaria.Procedimiento.Value;
 
-public class IdDiagnostico {
+import co.com.sofka.domain.generic.Identity;
+
+public class IdDiagnostico extends Identity {
 }
